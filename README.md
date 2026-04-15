@@ -21,3 +21,13 @@ xychart-beta
     line "Quick200" [0.0580, 1.4835, 0.7573, 1.1579, 7.5054, 7.5473]
 ```
 <!-- CHART:END -->
+
+## Chart Key
+
+- `Insertion`: insertion sort
+- `Heap`: heap sort
+- `Merge`: merge sort
+- `Quick`: quick sort (cutoff `1`)
+- `Quick10`: quick sort (cutoff `10`)
+- `Quick50`: quick sort (cutoff `50`)
+- `Quick200`: quick sort (cutoff `200`)
